@@ -1,3 +1,4 @@
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
@@ -6,9 +7,11 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Skills from "./pages/Skills";
 import Projects from "./pages/Projects";
-import CivicFix from "./pages/CivicFix";
+
 import SmartCart from "./pages/SmartCart";
 import SpendWise from "./pages/SpendWise";
+import SmartAmbulanceRoute from "./pages/SmartAmbulanceRoute";
+
 import Certifications from "./pages/Certifications";
 import Leadership from "./pages/Leadership";
 import Contact from "./pages/Contact";
@@ -25,11 +28,6 @@ function App() {
         <Route path="/projects" element={<Projects />} />
 
         <Route
-          path="/projects/civicfix-ai"
-          element={<CivicFix />}
-        />
-
-        <Route
           path="/projects/smartcart"
           element={<SmartCart />}
         />
@@ -37,6 +35,11 @@ function App() {
         <Route
           path="/projects/spendwise"
           element={<SpendWise />}
+        />
+
+        <Route
+          path="/projects/smart-ambulance-route"
+          element={<SmartAmbulanceRoute />}
         />
 
         <Route

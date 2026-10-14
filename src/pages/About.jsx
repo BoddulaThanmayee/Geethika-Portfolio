@@ -17,8 +17,8 @@ function About() {
 
         <div className="about-intro">
           <p>
-            I'm Boddula Thanmayee, a Computer Science Engineering
-            student who enjoys turning ideas into useful software.
+            I'm Bandaru Geethika Mahalakshmi, a Computer Science
+            Engineering student who enjoys turning ideas into useful software.
           </p>
 
           <p>
@@ -47,15 +47,14 @@ function About() {
 
           <p>
             My engineering journey has given me opportunities to
-            work on projects across software development, mobile
-            applications, data, and AI.
+            explore software development and learn about technologies
+            that can be used to build practical solutions.
           </p>
 
           <p>
-            Through projects and hackathons, I've learned that
-            building a solution is not only about writing code.
-            It is about understanding the problem, experimenting
-            with ideas, and creating something people can actually use.
+            Through learning and project work, I aim to understand
+            problems, experiment with ideas, and develop solutions
+            that people can actually use.
           </p>
         </div>
 
@@ -84,12 +83,12 @@ function About() {
             </p>
 
             <p className="education-location">
-              Jonnada
+              Jonnada, Vizianagaram
             </p>
           </div>
 
           <div className="cgpa">
-            <strong>9.31</strong>
+            <strong>9.1</strong>
             <span>CGPA / 10</span>
           </div>
 
@@ -105,7 +104,7 @@ function About() {
         </div>
 
         <div className="fact">
-          <strong>9.31</strong>
+          <strong>9.1</strong>
           <span>CGPA / 10</span>
         </div>
 

@@ -17,15 +17,15 @@ function Home() {
             </p>
 
             <h1>
-              BODDULA
+              GEETHIKA
               <br />
-              <span>THANMAYEE</span>
+              <span>MAHALAKSHMI</span>
             </h1>
 
             <p className="hero-description">
-              Computer Science Engineering student building thoughtful
-              software, practical AI solutions, and digital experiences
-              that solve real-world problems.
+              Computer Science Engineering student interested in
+              software development, artificial intelligence, and
+              building practical digital solutions to real-world problems.
             </p>
 
             <div className="hero-buttons">
@@ -35,7 +35,7 @@ function Home() {
               </a>
 
               <a
-                href="/resume/Boddula_Thanmayee_Resume.pdf"
+                href="/resume/mahaResume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="secondary-button"
@@ -48,7 +48,7 @@ function Home() {
             <div className="hero-meta">
 
               <div>
-                <strong>9.31</strong>
+                <strong>9.1</strong>
                 <span>CGPA / 10</span>
               </div>
 
@@ -83,7 +83,7 @@ function Home() {
 
               <img
                 src={profilePhoto}
-                alt="Boddula Thanmayee"
+                alt="Bandaru Geethika Mahalakshmi"
                 className="hero-profile-image"
               />
 
@@ -117,9 +117,8 @@ function Home() {
           </div>
 
           <p className="intro-text">
-            I enjoy turning ideas into working products — from
-            AI-powered civic solutions to mobile applications and
-            practical software systems.
+            I enjoy exploring technology, learning new concepts,
+            and developing software ideas into practical solutions.
           </p>
 
         </section>

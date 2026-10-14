@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <NavLink to="/" className="navbar-logo">
-        BT<span>.</span>
+        GM<span>.</span>
       </NavLink>
 
       <nav className="navbar-links">
